@@ -1,0 +1,10 @@
+_TestEnv/
+_Releases/
+
+# Binaries
+*.exe
+*.o
+
+# Test files
+*.tar
+*.kit
