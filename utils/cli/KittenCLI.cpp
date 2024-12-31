@@ -131,7 +131,7 @@ CompressorArgs ParseArguments(int argc, char** argv)
 		}
 	}
 
-	// Parse additional argument
+	// Parse additional arguments
 	int curArg = 3;
 	while (curArg < argc)
 	{
